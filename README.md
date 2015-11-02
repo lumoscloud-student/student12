@@ -1,6 +1,8 @@
 # student12
-
-My new repository with C4.
+# test
+# gegeiw
+My new repository with C4
+ik heb wat toegevoegd
 
 Add another C4
 What the boogie!?
