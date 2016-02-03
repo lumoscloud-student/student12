@@ -1,7 +1,7 @@
 # student12
 # test
 # gegeiw
-My new repository with C4
+My new repository modified by Josh
 ik heb wat toegevoegd
 
 bdbdmnsbmadns
